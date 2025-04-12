@@ -1,0 +1,2 @@
+Commad to run
+python main.py AAPL --period 1y --interval 1d
